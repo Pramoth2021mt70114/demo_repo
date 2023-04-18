@@ -1,1 +1,4 @@
 .DS_hello
+*.log
+*.tt
+log/
